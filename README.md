@@ -126,7 +126,7 @@ The Truth & Beauty Lab Reservation System works well with the Truth & Beauty Lab
 
 This document, the Online Notification User Guide, the Pandorabot METAbolt Add-On Manual, the Pandorabot Actorbot Add-On Manual, Pandorabots Owner Manual, and Pandorabots User Guide are all available in PDF format at http://www.scribd.com/missyrestless
 
-View and interact with the Truth & Beauty Lab demonstration Pandorabots at http://slurl.com/secondlife/Gualdo/204/224/43  http://slurl.com/secondlife/Gualdo/210/226/42/ and http://slurl.com/secondlife/Gualdo/204/224/43 (mature).
+View and interact with the Truth & Beauty Lab demonstration Pandorabots at http://maps.secondlife.com/secondlife/Urban/77/21/34 (mature).
 
 Email missyrestless@gmail.com with any questions, comments, suggestions, etc.
 
