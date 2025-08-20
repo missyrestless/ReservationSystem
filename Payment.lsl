@@ -1,7 +1,7 @@
 // Payment - pay object module of the Truth & Beauty Lab Reservation System
 // Version 1.3
 //
-// Copyright (c) 2011 Missy Restless
+// Copyright (c) 2011-2015 Missy Restless
 // All rights reserved
 //
 // Created 25-Feb-2011 by Missy Restless

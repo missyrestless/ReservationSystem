@@ -9,20 +9,21 @@ The Truth & Beauty Lab Reservation System provides an easy to use dialog menu in
 ## CONTENTS
 
 This package contains:
-    * Three preconfigured reservation boards (airline, event, and escort)
-    * The Reservation System Owners Manual
-    * Sample configuration notecards for airline, event, and escort bookings
-    * A landmark to the demonstration Reservation Board at Truth & Beauty Lab
+
+* Three preconfigured reservation boards (airline, event, and escort)
+* The Reservation System Owners Manual
+* Sample configuration notecards for airline, event, and escort bookings
+* A landmark to the demonstration Reservation Board at Truth & Beauty Lab
 
 ## SETUP OVERVIEW
 
 ### Rez and Unpack the Box
 
-Upon purchase you will receive a boxed Reservation System. Rez and unpack the box (right click the rezzed box and select “Open” then copy the contents to your inventory). Your inventory should now contain a folder “Reservation System”. In this folder you will find three Reservation Board objects, the owner manual, sample Config notecards, and landmark.
+Upon purchase you will receive a boxed Reservation System. Rez and unpack the box (right click the rezzed box and select `Open` then copy the contents to your inventory). Your inventory should now contain a folder `Reservation System`. In this folder you will find three Reservation Board objects, the owner manual, sample Config notecards, and landmark.
 
 ### Rez and Position the Reservation Board
 
-Select a location for your Reservation Board and drag one of the Reservation Boards from your inventory to the ground. Position the rezzed Reservation Board by right clicking it, selecting “Edit” and using the position arrows.
+Select a location for your Reservation Board and drag one of the Reservation Boards from your inventory to the ground. Position the rezzed Reservation Board by right clicking it, selecting `Edit` and using the position arrows.
 
 ### Grant Debit Permission
 
@@ -30,7 +31,7 @@ When first rezzed the Reservation Board will display a dialog window requesting 
 
 ### Add a Custom Texture to the Board's Contents
 
-If you would like to customize the appearance of your reservation board, create and upload an image to use on your board. Perhaps a snapshot of your business, event, or service with whatever text you want to display on the board. I use the Gimp for this (a Photoshop like free image editing tool from gimp.org). Upload the custom image and drop it in the reservation board's contents. This step is not always necessary – you may be perfectly happy with one of the boards provided.
+If you would like to customize the appearance of your reservation board, create and upload an image to use on your board. Perhaps a snapshot of your business, event, or service with whatever text you want to display on the board. I use the Gimp for this (a Photoshop like free image editing tool from gimp.org). Upload the custom image and drop it in the reservation board's contents. This step is not always necessary - you may be perfectly happy with one of the boards provided.
 
 ### Edit the Config Notecard
 
@@ -44,18 +45,18 @@ Edit the Info notecard adding descriptions of the available bookings and prices 
 
 The Config notecard can be edited to configure the default settings for:
 
-    * Destination/event/service names
-    * Price for each destination/event/service
-    * Default price
-    * Hover text to display
-    * Texture to use on the board's front and back sides
-    * Dialog menu text
-    * Name of the reservation board
-    * Type of activity bookings are offered for
-    * Days of the week to accept reservation requests
-    * Times of day to accept reservation requests
-    * Email address to use when notifying the owner of a request
-    * Demonstration mode
+* Destination/event/service names
+* Price for each destination/event/service
+* Default price
+* Hover text to display
+* Texture to use on the board's front and back sides
+* Dialog menu text
+* Name of the reservation board
+* Type of activity bookings are offered for
+* Days of the week to accept reservation requests
+* Times of day to accept reservation requests
+* Email address to use when notifying the owner of a request
+* Demonstration mode
 
 The Config variables and their default settings follow:
 

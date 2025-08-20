@@ -1,7 +1,7 @@
 // Reservation - a dialog menu based reservation system
 // Version 1.2
 //
-// Copyright (c) 2011 Missy Restless
+// Copyright (c) 2011-2015 Missy Restless
 // All rights reserved
 //
 // Created 17-Feb-2011 by Missy Restless
