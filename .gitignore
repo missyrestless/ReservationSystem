@@ -1,0 +1,21 @@
+Bak/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Private scripts, do not add or commit
+Private/
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# vim files
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist

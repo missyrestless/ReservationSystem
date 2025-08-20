@@ -1,0 +1,16 @@
+INTRODUCTION
+
+The Truth & Beauty Lab Reservation System provides an easy to use dialog menu interface allowing visitors to book a reservation date, time, and destination or event. The owner can set individual schedules and prices for each destination or event. The reservation is booked when the reservation board receives payment equal to or greater than the price for the event. Notice of the reservation is sent to the owner via Instant Message and, if configured, Email. The visitor also receives an Instant Message and dialog informing them that their reservation has been booked. The Reservation System owner can configure the destination/event names, prices, default price, email address, hover text, board texture, dialog menu text, days of week to display, and times of day to display. This document is available in PDF format at http://www.scribd.com/missyrestless
+
+CONTENTS
+
+This package contains:
+    * Three preconfigured reservation boards (airline, event, and escort)
+    * The Reservation System Owners Manual
+    * Sample configuration notecards for airline, event, and escort bookings
+    * A landmark to the demonstration Reservation Board at Truth & Beauty Lab
+
+SETUP OVERVIEW
+
+Rez and Unpack the Box
+
